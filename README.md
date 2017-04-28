@@ -5,3 +5,6 @@ Ogni Threads è indipendente dall altro, TUTTI partono da 10 ed effettuano un co
 Viene inserita una variabile che parte da **0** e si aggiorna ogni qualvolta il thread **TOE appare dopo il TAC**
 
 Alla fine dei Thread viene restituita la variabile dentro il contatore che viene considerata come un punteggio che indica quante volte il **TOE appare DOPO il TAC**
+
+
+**IN QUESTO PROGETTO ABBIAMO NOTATO CHE IL RISULTATO DEL PUNTEGGIO NON È SEMPRE GIUSTO POICHÈ NON ABBIAMO ANCORA SVILUPPATO LE CORRETTE COMPETENZE PER COPILARE UN CODICE STABILE E CHE RISPETTI GLI OBBIETTIVI DA RAGGIUNGERE**
