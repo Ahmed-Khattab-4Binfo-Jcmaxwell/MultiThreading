@@ -53,7 +53,7 @@ public class ES1Final
         catch (InterruptedException e)
         {}
         System.out.println();
-        System.out.println("punteggio: " + schermo.punteggio);  //stampo il punteggio
+        System.out.println("Main THREAD terminata. Punteggio: " + schermo.punteggio);  //stampo il punteggio
         
         long end = System.currentTimeMillis();
         System.out.println("Main Thread completata! tempo di esecuzione: " + (end - start) + "ms");
